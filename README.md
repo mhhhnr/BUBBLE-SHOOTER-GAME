@@ -139,6 +139,8 @@ Triggered when forbidden cells (e.g., `wordsin[8][7]`) are filled.
 Displays textured **GAME OVER** message along with:
 
 "Your Score : " + Num2Str(score)
+### WorkFlow Diagram
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/77f3cd07-e9df-4755-99d0-bd7dd48d1f4c" />
 
 
 ```cpp
