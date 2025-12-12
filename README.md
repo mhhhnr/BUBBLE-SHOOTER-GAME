@@ -138,7 +138,6 @@ We improved maintainability and readability using comments, consistent formattin
 Triggered when forbidden cells (e.g., `wordsin[8][7]`) are filled.  
 Displays textured **GAME OVER** message along with:
 
-```cpp
 "Your Score : " + Num2Str(score)
 
 
